@@ -79,7 +79,7 @@
                                  &trans        &trans        &trans        &trans  &trans  &trans     &trans    &trans    &trans     &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp PG_UP PG_DN>;
+            sensor-bindings = <&inc_dec_kp PG_DN PG_UP &inc_dec_kp PG_UP PG_DN>;
         };
     };
 };
