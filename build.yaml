@@ -17,13 +17,3 @@ include:
     shield: sofle_rgb_left
   - board: nice_nano_v2
     shield: sofle_rgb_right
-include:
-  - board: nice_nano_v2
-    shield: sofle_rgb_left
-  - board: nice_nano_v2
-    shield: sofle_rgb_right
-include:
-  - board: nice_nano_v2
-    shield: sofle_rgb_left
-  - board: nice_nano_v2
-    shield: sofle_rgb_right
