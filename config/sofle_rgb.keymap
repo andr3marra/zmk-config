@@ -21,7 +21,6 @@
                 <&kp R>,
                 <&macro_release>,
                 <&kp LGUI>,
-                <&macro_wait_time 500>,
                 <&macro_tap>,
                 <&kp W &kp T &kp ENTER>;
         };
