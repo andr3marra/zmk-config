@@ -15,7 +15,12 @@
             label = "new_macro";
             #binding-cells = <0>;
             bindings =
-                <&kp LGUI &kp R>,
+                <&macro_press>,
+                <&kp LGUI>,
+                <&macro_tap>,
+                <&kp R>,
+                <&macro_release>,
+                <&kp LGUI>,
                 <&macro_wait_time 500>,
                 <&kp W &kp T &kp ENTER>;
         };
