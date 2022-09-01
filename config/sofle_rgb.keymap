@@ -30,8 +30,8 @@
         compatible = "zmk,combos";
 
         new_combo {
-            bindings = <&kp LEFT_WIN>;
-            key-positions = <17>;
+            bindings = <&windows>;
+            key-positions = <50 17>;
         };
     };
 
